@@ -3,3 +3,5 @@ description: Summarizes the work done in as part of the Helen Edwards Summer Pro
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-time-machine
+markdown: Kramdown
+repository: SoumyaShreeram/Qubit

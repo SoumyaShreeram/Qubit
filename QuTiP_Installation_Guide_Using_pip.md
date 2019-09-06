@@ -19,7 +19,7 @@ The general guide for installing QuTip is also available [here](http://qutip.org
 
 2. Install required packages with pip
 
-	`install numpy scipy cython nose matplotlib ipykernel matplotlib`
+	`pip install numpy scipy cython nose matplotlib ipykernel matplotlib`
 
 ### **Step 3:** Downloading Visual Studio Build tools
 

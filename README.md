@@ -23,4 +23,4 @@ Applied Physics and Superconducting Technology Division, Fermilab
 
 July-August 2019
 
-**The results of the project are published [here](https://arxiv.org/abs/1912.02894). **
+**The results of the project are published** [here](https://arxiv.org/abs/1912.02894).

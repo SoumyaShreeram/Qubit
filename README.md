@@ -1,7 +1,7 @@
 # Qubit
 ## Studying Qubit Interactions with Multimode Cavities Using QuTiP
 
-*Abstract* <br>
+<u>*Abstract*</u> <br>
 The project uses QuTiP, a quantum computing framework, to simulate interactions between
 two-qubits coupled with each other via three resonators. The main aim of this project is to
 build a machinery of techniques to understand complex qubit-cavity interactions using QuTiP’s
